@@ -16,7 +16,7 @@ public class HitScore : MonoBehaviour
 
     private void Start()
     {
-        length = (centerPoint.TransformPoint(centerPoint.position) - centerPoint.TransformPoint(bordrPoint.position)).magnitude;
+        length = centerPoint.TransformPoint(centerPoint.position - bordrPoint.position).magnitude;
     }
 
     private void OnCollisionEnter(Collision collision)

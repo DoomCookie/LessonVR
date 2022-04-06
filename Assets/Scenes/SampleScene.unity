@@ -373,7 +373,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1 &168122849
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,7 +682,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1 &301298305
 GameObject:
   m_ObjectHideFlags: 0
@@ -935,7 +935,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1 &525550396
 GameObject:
   m_ObjectHideFlags: 0
@@ -2068,7 +2068,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1001 &1427406944
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2657,7 +2657,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1 &1940861905
 GameObject:
   m_ObjectHideFlags: 0
@@ -3216,7 +3216,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!1 &2126767940
 GameObject:
   m_ObjectHideFlags: 0
@@ -3469,7 +3469,7 @@ MonoBehaviour:
   centerPoint: {fileID: 1666020810}
   bordrPoint: {fileID: 906386741}
   scoreBase: 100
-  textScore: {fileID: 0}
+  textScore: {fileID: 687605288}
 --- !u!224 &2129202636 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6099151973235997435, guid: c5f2e27cae5e8e345899af120a14648d,
